@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 80%;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav__links{
+    background-color: blue;
+    width: 15%;
+    list-style: none;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li a{
+    color: white;
+    text-decoration:  none;
+}
+main{
+    width: 80%;
+    height: 75vh;
+    background-color: rgb(183, 235, 80);
+}
