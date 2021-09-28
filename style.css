@@ -28,3 +28,6 @@ main{
     height: 75vh;
     background-color: rgb(183, 235, 80);
 }
+.main_contact{
+    background-color: tomato;
+}
